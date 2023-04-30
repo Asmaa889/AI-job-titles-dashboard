@@ -1,0 +1,63 @@
+company,title,description,onsite_remote,location,country,day,month,Seniority level,Employment type,Job function,Industries
+Tiger Analytics,machine learning,20,41,41,canada,41,41,41,41,41,20
+owl.co,machine learning,14,43,43,canada,43,43,43,43,43,14
+Prenuvo,machine learning,12,27,27,canada,27,27,27,27,27,12
+NTENT,machine learning,8,14,14,canada,14,14,14,14,14,8
+Osedea,machine learning,8,16,16,canada,16,16,16,16,16,8
+Lockheed Martin,machine learning,72,72,72,usa,72,72,72,72,72,72
+Sapling.ai,machine learning,38,38,38,usa,38,38,38,38,38,38
+Neural Magic,machine learning,38,38,38,usa,38,38,38,38,38,38
+Cyberjin,machine learning,38,38,38,usa,38,38,38,38,38,38
+Meetup,machine learning,32,32,32,usa,32,32,32,32,32,32
+Turing,machine learning,57,57,57,africa,57,57,57,57,57,57
+Snaphyre,machine learning,33,36,36,africa,36,36,36,36,36,33
+Capitec,machine learning,28,41,41,africa,41,41,41,41,41,28
+TechnoServe,machine learning,19,19,19,africa,19,19,19,19,19,19
+Hugging Face,machine learning,16,17,17,africa,17,17,17,17,17,16
+HP,Data Scientist,24,58,58,canada,58,58,58,58,58,24
+Binance.US,Data Scientist,16,30,30,canada,30,30,30,30,30,16
+Experfy,Data Scientist,15,34,34,canada,34,34,34,34,34,15
+Boosted.ai,Data Scientist,14,17,17,canada,17,17,17,17,17,14
+ShyftLabs,Data Scientist,13,28,28,canada,28,28,28,28,28,13
+Experfy,Data Scientist,169,169,169,usa,169,169,169,169,169,169
+"Technomics, Inc.",Data Scientist,58,59,59,usa,59,59,59,59,59,58
+Deloitte,Data Scientist,49,52,52,usa,52,52,52,52,52,49
+Clarifai,Data Scientist,39,40,40,usa,40,40,40,40,40,39
+Patterned Learning AI,Data Scientist,32,32,32,usa,32,32,32,32,32,32
+RPO Recruitment,Data Scientist,70,119,119,africa,119,119,119,119,119,70
+Snaphyre,Data Scientist,23,24,24,africa,24,24,24,24,24,23
+Hire Resolve .US,Data Scientist,21,34,34,africa,34,34,34,34,34,21
+Token Metrics,Data Scientist,20,24,24,africa,24,24,24,24,24,20
+ikeja,Data Scientist,12,18,18,africa,18,18,18,18,18,12
+Affinity,Data Analyst,51,80,80,canada,80,80,80,80,80,51
+TELUS International,Data Analyst,27,39,39,canada,39,39,39,39,39,27
+Diverse Lynx,Data Analyst,21,42,42,canada,42,42,42,42,42,21
+American Iron & Metal (AIM),Data Analyst,19,31,31,canada,31,31,31,31,31,19
+HiTek Staffing LLC,Data Analyst,15,28,28,canada,28,28,28,28,28,15
+"Donato Technologies, Inc.",Data Analyst,40,40,40,usa,40,40,40,40,40,40
+Software People Inc.,Data Analyst,40,40,40,usa,40,40,40,40,40,40
+Zortech Solutions,Data Analyst,38,38,38,usa,38,38,38,38,38,38
+Altamira Technologies Corporation,Data Analyst,38,38,38,usa,38,38,38,38,38,38
+MashPoint - Technology & Staffing,Data Analyst,26,26,26,usa,26,26,26,26,26,26
+Turing,Data Analyst,122,209,209,africa,209,209,209,209,209,122
+M-Power Consulting,Data Analyst,25,38,38,africa,38,38,38,38,38,25
+Societe Generale,Data Analyst,24,33,33,africa,33,33,33,33,33,24
+FieldPro (By Optimetriks),Data Analyst,17,17,17,africa,17,17,17,17,17,17
+Confluence,Data Analyst,16,17,17,africa,17,17,17,17,17,16
+Braintrust,Computer Vision,46,85,85,canada,85,85,85,85,85,46
+TalentLab,Computer Vision,12,20,20,canada,20,20,20,20,20,12
+Braintrust,Computer Vision,45,45,45,usa,45,45,45,45,45,45
+MoTek Technologies,Computer Vision,42,42,42,usa,42,42,42,42,42,42
+"Koh Young Technology, Inc.",Computer Vision,38,38,38,usa,38,38,38,38,38,38
+Magnet Forensics,Computer Vision,34,34,34,usa,34,34,34,34,34,34
+Skyways,Computer Vision,20,20,20,usa,20,20,20,20,20,20
+"Huawei Technologies Canada Co., Ltd.",Natural Language Processing,8,20,20,canada,20,20,20,20,20,8
+Morgan Stanley,Natural Language Processing,4,14,14,canada,14,14,14,14,14,4
+Behavox,Natural Language Processing,1,17,17,canada,17,17,17,17,17,1
+Cresta,Natural Language Processing,1,14,14,canada,14,14,14,14,14,1
+Wysdom.AI,Natural Language Processing,0,17,17,canada,17,17,17,17,17,0
+Kensho Technologies,Natural Language Processing,77,80,80,usa,80,80,80,80,80,77
+Dyania Health,Natural Language Processing,59,59,59,usa,59,59,59,59,59,59
+Laksan Technologies,Natural Language Processing,40,40,40,usa,40,40,40,40,40,40
+Ninjatech Ai,Natural Language Processing,37,38,38,usa,38,38,38,38,38,37
+MoTek Technologies,Natural Language Processing,31,31,31,usa,31,31,31,31,31,31
